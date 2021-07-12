@@ -28,6 +28,11 @@ mathjax: true
 
 # 2021
 {% publications %}
+cao2019combustion,
+chin2021cyclopentadienyl,
+xu2021automated,
+li2021extensive,
+chen2021binding,
 liu2021engineering,
 zeng2020exploring
 {% endpublications %}
@@ -49,7 +54,6 @@ zeng2020reacnetgenerator
 # 2019
 
 {% publications %}
-cao2019combustion,
 chin2019formation,
 zhu2019nanoporous,
 tian2019understanding,
