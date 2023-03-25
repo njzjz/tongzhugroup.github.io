@@ -36,7 +36,7 @@
     "gifsicle": "4.0.1"
   },
   "devDependencies": {
-    "bootstrap": "4.6.0",
+    "bootstrap": "4.6.2",
     "hexo-all-minifier": "0.5.7"
   }
 }
