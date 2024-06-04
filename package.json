@@ -33,7 +33,7 @@
     "jsdelivr_url": "0.0.1"
   },
   "resolutions": {
-    "gifsicle": "4.0.1"
+    "gifsicle": "7.0.1"
   },
   "devDependencies": {
     "bootstrap": "4.6.2",
